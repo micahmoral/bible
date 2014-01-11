@@ -1,0 +1,99 @@
+.div{
+  width:1200px;
+  height:auto;
+  border:2px solid black;
+  margin-left: 20;
+  margin-right: 20;
+  margin-top: 10;
+  position: absolute;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;
+  background: #fff; /* fallback for browsers that don't understand rgba */
+  border: #solid 10px #000; /* fallback for browsers that don't understand rgba */
+  background-color: rgba(255,255,255,0.8);/* slighly transparent white */
+  border-color: solid 10px rgba(0,0,0,0.2); /*Very transparent black*/
+}
+.div1{
+ background-color: #F1ECFF;
+}
+.div2{
+  width:640px;
+  height:500px;
+  border:10px solid brown;
+  margin-left: 240;
+  margin-right: 20;
+  margin-top: 10;
+  position: absolute;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;
+  box-shadow: 10px 10px 5px #888888;
+  background: #fff; /* fallback for browsers that don't understand rgba */
+  border: #solid 10px #000; /* fallback for browsers that don't understand rgba */
+  background-color: rgba(255,255,255,0.8);/* slighly transparent white */
+  border-color: solid 10px rgba(0,0,0,0.2); /*Very transparent black*/
+}
+.header{
+  position: absolute;
+  color: white;
+  background-color: black;
+  font-size: 1em;
+  height: 25px;
+  width: 100%;
+  border:2px solid black
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;
+}
+.sample{
+  position: absolute;
+  color: white;
+  margin-top: 500;
+  background-color: black;
+  font-size: 1em;
+  height: 25px;
+  width: 100%;
+  border:2px solid black
+  -moz-border-radius: 5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+}
+.item{
+  position: absolute;
+  color: white;
+  background-color: black;
+  font-size: 1em;
+  height: 25px;
+  width: 100%;
+  border:2px solid black
+  -moz-border-radius: 25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;
+}
+.info{
+  position: absolute;
+  color: white;
+  background-color: black;
+  font-size: 1em;
+  height: 25px;
+  width: 100%;
+  border:2px solid black
+  -moz-border-radius: 25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;
+}
+.item1{
+  position: absolute;
+  background-color: #999999;
+  margin-top: 8;
+  color: white;
+  font-size: 1em;
+  height: 93%;
+  width: 100%;
+  border:5px solid black
+  -moz-border-radius: 25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;
+}
+

@@ -1,0 +1,25 @@
+.back1{
+	background-image: url(img/j.jpg);
+	background-color: beige;
+}
+.back2{
+	background-image: url(img/2.jpg);
+	line-height: 20pt;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	max-height: 40px;
+	max-width: 10000px;
+	border:20px;
+}
+.back3{
+	background-color: khaki;
+}
+.back4{
+	background-color: beige;
+}
+.font{
+	font-family: Adobe Fan Heiti Std B;
+}
+.back6{
+	background-color: pink;
+}
